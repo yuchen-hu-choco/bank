@@ -1,3 +1,9 @@
 # bank
 [2021-05-08]
-Initialize bank project.
+Prerequisite:
+python3 
+flash
+
+How to run:
+cd to the bank directory, then run:
+python -m flask run
